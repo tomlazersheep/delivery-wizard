@@ -5,7 +5,11 @@ This app is a way of managing orders for food POS with in-house delivery service
 is to help manage business with multiple POS and multiple couriers at the same time, prevent order duplicates or missplacements,
 and keep track of the amount every courier owes to the shop. This is easy to do on paper when having a small amount of orders and
 one or two couriers, but it gets increasingly harder as you go up. Here's the paper system collapsing:
+
 ![WhatsApp Image 2023-07-10 at 2 36 15 AM](https://github.com/tomlazersheep/delivery-wizard/assets/38867785/98204762-d7a9-4856-a3a2-493a47c997bd)
+
+This app should aim to have as little initial setup as possible, and be able to create everything on the go, without changing screens or using popups.
+Eventually the app adapts to everyday usage.
 
 # Usage 
 Should be able to set an address as "home" and some map area for coverage, then easily input an address and items for an order.
