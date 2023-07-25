@@ -1,4 +1,4 @@
 db-data
-node/package-lock.json
 node/node_modules
 node/.env
+.env
